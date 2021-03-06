@@ -1,6 +1,10 @@
 {
+  "homepage": "https://nineone-code.github.io/specific-game-leaderboard-with-lowdb",
   "name": "specific-game-leaderboard-with-lowdb",
   "version": "1.0.0",
+  "engines": {
+    "node": "14"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {

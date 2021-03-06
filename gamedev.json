@@ -1,0 +1,388 @@
+{
+  "scores": [
+    {
+      "id": "QLRX0Qp-5Legb4depZtcQ",
+      "username": "boy",
+      "score": 35,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -121,
+          37
+        ]
+      }
+    },
+    {
+      "id": "mSL2abiC2Ge3Ry5t6HqNq",
+      "username": "nraboy",
+      "score": 35,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -21,
+          137
+        ]
+      }
+    },
+    {
+      "id": "mzxvQhYdpeiMuAz97Qa_I",
+      "username": "nine",
+      "score": 100,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -222,
+          33
+        ]
+      }
+    },
+    {
+      "id": "s8ajD00pip5VKldaYvL0K",
+      "username": "one",
+      "score": 90,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -172,
+          41
+        ]
+      }
+    },
+    {
+      "id": "mJ-gSh_f85-1C6LSv9rtL",
+      "username": "nineone",
+      "score": 200,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          -76,
+          120
+        ]
+      }
+    },
+    {
+      "id": "X6M-PQfearou7R7LsbZJ1",
+      "username": "the nine",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "WK2zikqWQguE6xnyT9jlP",
+      "username": "the big",
+      "score": 4,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "KiHpgSvDPqkOcQ5u6yQZq",
+      "username": "fvfd",
+      "score": 3,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "2qYvxSwQaQmxjM5eCJ1q0",
+      "username": "dscdsv",
+      "score": 14,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "sKGBeDH6kp3Inql3eF9nN",
+      "username": "dscds",
+      "score": 1,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "jobjSW9TnrpQFmtHYeXMR",
+      "username": "cdsc",
+      "score": 9,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "Q2Mc5i_DFrJ2ecHvZ9z_Q",
+      "username": "dscds",
+      "score": 1,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "VlIO4Lokx6U3KNf0T82XH",
+      "username": "scdsc",
+      "score": 1,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "cmHdZeepshf8ggEJ0Vlsf",
+      "username": "cx x x",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "wOrVwWGDxGISdOEoEa62q",
+      "username": "csdcs",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "FybbKP4kkQed81CNU33mj",
+      "username": "ghng",
+      "score": 6,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "Gmf4QEEY1OECvscXv-jG-",
+      "username": "csdsd",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "kYFf2FSCEz9rLnD6T6o6Z",
+      "username": "cfvfd",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "lOJsi3kSWZXwvGkF7m5pi",
+      "username": "fdfdvv",
+      "score": 1,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "9icGkcMQyellI9TQ4idb7",
+      "username": "gbgfb",
+      "score": 1,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "iAvXHoM2T5WnYBXSML2Zy",
+      "username": "sdcdsv",
+      "score": 1,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "-E69LCdnIPawE3YkoTtS5",
+      "username": "cscsd",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    },
+    {
+      "id": "WMZH3LgXBy-RdpK23KkVM",
+      "username": "csdscs",
+      "score": 1,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "SoO2xYZ2F7_KHXlKsWnWw",
+      "username": "vvss",
+      "score": 1,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.8,
+          -7.9
+        ]
+      }
+    },
+    {
+      "id": "QpSLyPFs6GlhsokMVe2Ut",
+      "username": "asd",
+      "score": 11,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    },
+    {
+      "id": "8e33g84EfSTTW_Fuoo-S3",
+      "username": "asd",
+      "score": 27,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    },
+    {
+      "id": "O6SEfi20ZyNgxAABHVI9A",
+      "username": "kambing",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    },
+    {
+      "id": "lvDPFaLOumgJb2DmOV1w-",
+      "username": "kambing",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    },
+    {
+      "id": "hbrLc8YXXNKs03YKVBuPr",
+      "username": "kambing",
+      "score": 2,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    },
+    {
+      "id": "e_kkC6D0V8hsv8_NK4COj",
+      "username": "kambing",
+      "score": 7,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    },
+    {
+      "id": "7N7C8z4d8ipcUYv19h28V",
+      "username": " gbgfb",
+      "score": 7,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    },
+    {
+      "id": "BbwsCQngIIQk-Bt2AroVI",
+      "username": " gbgfb",
+      "score": 11,
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          113.7,
+          -8.2
+        ]
+      }
+    }
+  ]
+}
